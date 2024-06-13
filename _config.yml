@@ -1,6 +1,9 @@
-title: David Hunt
+title: Ihboras Data Science Portfolio
+author: 
+  name: David Hunt
+  email: ihboras3@hotmail.com
 #logo:
-#description: test below image
+description: This is my data science portfolio
 #show_downloads: true
 remote_theme: pages-themes/dinky@v0.2.0
 plugins:
