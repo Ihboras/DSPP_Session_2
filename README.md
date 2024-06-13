@@ -8,4 +8,4 @@ This is a sample section alongside my methods
 
 ## Data Analysis
 # Image
-![Pokemon Logo](Assets/Pokemon Logo.jfif)
+![Pokemon Logo](Assets/Pokemon Logo.jpeg)
